@@ -1,0 +1,3 @@
+D:/project/Курсачи/app_5/dist/folder/A
+D:/project/Курсачи/app_5/dist/folder/B
+D:/project/Курсачи/app_5/dist/folder/N
